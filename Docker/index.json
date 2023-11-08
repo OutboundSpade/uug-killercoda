@@ -7,6 +7,6 @@
 		}
 	},
 	"backend": {
-		"imageid": "ubuntu-4G"
+		"imageid": "ubuntu-4GB"
 	}
 }
