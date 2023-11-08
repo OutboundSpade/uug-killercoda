@@ -3,7 +3,7 @@
 	"description": "",
 	"details": {
 		"assets": {
-			"host01": [{ "file": "**", "target": "/demos", "chmod": "+w" }]
+			"host01": [{ "file": "**", "target": "/root/demos", "chmod": "+w" }]
 		}
 	},
 	"backend": {
