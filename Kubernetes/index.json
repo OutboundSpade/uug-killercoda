@@ -1,0 +1,12 @@
+{
+	"title": "Kubernetes",
+	"description": "",
+	"details": {
+		"assets": {
+			"host01": [{ "file": "**", "target": "/root/demos", "chmod": "+w" }]
+		}
+	},
+	"backend": {
+		"imageid": "kubernetes-kubeadm-2nodes"
+	}
+}
